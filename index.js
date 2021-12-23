@@ -6,7 +6,7 @@ import fileUpload from 'express-fileupload';
 const PORT = 4000;
 const DB_URL =
   'mongodb+srv://Alex:z6rJ6QbN4%40jSP%40f@cluster0.gn96i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
-// 'mongodb+srv://Alex:z6rJ6QbN4%40jSP%40f@test-server.yejlo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+// 'mongodb+srv://Alex:F5LHtgDdQEUShiTf@amu-test-db.yejlo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 const app = express();
 
